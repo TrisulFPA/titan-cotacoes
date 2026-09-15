@@ -39,3 +39,6 @@ jobs:
           git add cotacoes.js
           git diff --quiet --cached || git commit -m "Atualiza cotações do TITAN"
           git push
+
+      - name: Invalidar cache do jsDelivr (CDN)
+        run: curl -s "https://purge.jsdelivr.net/gh/TrisulFPA/titan-cotacoes@main/cotacoes.js" || true
