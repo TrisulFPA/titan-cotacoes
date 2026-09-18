@@ -1,7 +1,7 @@
 // Gerado automaticamente pelo GitHub Actions — NÃO editar à mão.
 // Consumido pelo ticker do TITAN.html (window.TITAN_COTACOES).
 window.TITAN_COTACOES = {
-  "ts": "2026-09-17T20:49:01+00:00",
+  "ts": "2026-09-18T13:05:35+00:00",
   "acoes": [
     {
       "symbol": "TRIS3",
@@ -11,27 +11,27 @@ window.TITAN_COTACOES = {
     {
       "symbol": "CYRE3",
       "price": 25.68,
-      "pct": -3.53
+      "pct": 0.0
     },
     {
       "symbol": "CURY3",
       "price": 28.9,
-      "pct": -5.15
+      "pct": 0.0
     },
     {
       "symbol": "DIRR3",
       "price": 10.07,
-      "pct": -0.1
+      "pct": 0.0
     },
     {
       "symbol": "EZTC3",
       "price": 12.95,
-      "pct": -3.0
+      "pct": 0.0
     },
     {
       "symbol": "EVEN3",
       "price": 4.12,
-      "pct": -1.44
+      "pct": 0.0
     },
     {
       "symbol": "MRVE3",
