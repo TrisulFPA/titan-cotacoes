@@ -1,22 +1,22 @@
 // Gerado automaticamente pelo GitHub Actions — NÃO editar à mão.
 // Consumido pelo ticker do TITAN.html (window.TITAN_COTACOES).
 window.TITAN_COTACOES = {
-  "ts": "2026-09-21T17:05:13+00:00",
+  "ts": "2026-09-21T17:21:35+00:00",
   "acoes": [
     {
       "symbol": "TRIS3",
-      "price": 5.02,
-      "pct": 2.24
+      "price": 5.04,
+      "pct": 2.65
     },
     {
       "symbol": "CYRE3",
-      "price": 27.82,
-      "pct": 4.31
+      "price": 27.8,
+      "pct": 4.24
     },
     {
       "symbol": "CURY3",
-      "price": 29.01,
-      "pct": -0.14
+      "price": 29.14,
+      "pct": 0.31
     },
     {
       "symbol": "DIRR3",
@@ -25,13 +25,13 @@ window.TITAN_COTACOES = {
     },
     {
       "symbol": "EZTC3",
-      "price": 13.8,
-      "pct": 3.14
+      "price": 13.83,
+      "pct": 3.36
     },
     {
       "symbol": "EVEN3",
-      "price": 4.17,
-      "pct": 3.47
+      "price": 4.18,
+      "pct": 3.72
     },
     {
       "symbol": "MRVE3",
@@ -40,18 +40,18 @@ window.TITAN_COTACOES = {
     },
     {
       "symbol": "LAVV3",
-      "price": 10.89,
-      "pct": 3.03
+      "price": 10.92,
+      "pct": 3.31
     },
     {
       "symbol": "PLPL3",
-      "price": 6.78,
-      "pct": 3.04
+      "price": 6.84,
+      "pct": 3.95
     },
     {
       "symbol": "TEND3",
-      "price": 29.75,
-      "pct": -1.23
+      "price": 29.84,
+      "pct": -0.93
     }
   ]
 };
