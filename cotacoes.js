@@ -1,7 +1,7 @@
 // Gerado automaticamente pelo GitHub Actions — NÃO editar à mão.
 // Consumido pelo ticker do TITAN.html (window.TITAN_COTACOES).
 window.TITAN_COTACOES = {
-  "ts": "2026-10-02T20:25:32+00:00",
+  "ts": "2026-10-02T20:40:54+00:00",
   "acoes": [
     {
       "symbol": "TRIS3",
